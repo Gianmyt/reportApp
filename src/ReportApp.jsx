@@ -8,7 +8,7 @@ export default function ReportApp() {
       {
         id: 1,
         operator: 'Marco Rossi',
-        date: '2025-05-09',
+        date: '2025-05-09', 
         description: 'Manutenzione attrezzature zona A',
         hours: 8,
         money: 45.50,
